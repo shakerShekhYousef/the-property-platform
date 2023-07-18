@@ -1,0 +1,51 @@
+<?php
+return [
+    'general'=>[
+        'actions'=>'Actions'
+    ],
+    'properties' =>[
+        'name'=>'Nom',
+        'makani_number'=>'Makani Numéro',
+        'p_number'=>'P-Numéro',
+        'floors'=>'Sols',
+        'price'=>'Prix',
+        'area'=>'Zone',
+        'address'=>'Adresse',
+        'notes'=>'Remarques',
+        'state'=>'État',
+        'property_number'=>'Numéro de propriété',
+        'floor_number'=>'Numéro d\'étage',
+        'number_of_bedrooms'=>'Nombre de chambres',
+        'number_of_bathrooms'=>'Nombre de salles de bain',
+        'description'=>'La description',
+        'is_published'=>'Est publié',
+        'is_occupied'=>'Est occupé',
+        'property_type'=>'Type de propriété',
+        'landlord'=>'Propriétaire',
+        'furniture_type'=>'Type de meuble',
+        'property_category'=>'Property Category',
+        'city'=>'Ville',
+        'property_status'=>'Statut de la propriété',
+        'payment_frequency'=>'Fréquence de paiement',
+        'country'=>'Pays'
+    ],
+    'users' =>[
+        'role'=>'Rôle',
+        'name'=>'Nom',
+        'email'=>'E-mail',
+        'phone'=>'Phone',
+        'languages'=>'Téléphoner',
+        'password'=>'Mot de passe',
+        'confirm password'=>'Confirmez le mot de passe',
+        'image'=>'Image',
+        'actions'=>'Actions',
+        'text Old Password'=>'Veuillez saisir lancien mot de passe.',
+        'text New Password'=>'Veuillez saisir un nouveau mot de passe.',
+        'text Confirm Password'=>'Veuillez saisir le mot de passe de confirmation.',
+        'change Password' => 'changer le mot de passe',
+        'old Password'=>'ancien mot de passe',
+        'new Password'=>'nouveau mot de passe',
+        'confirm Password'=>'Confirmez le mot de passe',
+        'user_type'=>'Type dutilisateur',
+    ]
+];
